@@ -1,0 +1,36 @@
+ <div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <form method="get" action="https://www.bootstrapdash.com/" class="form-horizontal">
+                        <div class="card-header card-header-text">
+                            <h4 class="card-title">Form Elements</h4>
+                        </div>
+                        <div class="card-content">
+                            <div class="row">
+                                <label class="col-sm-2 label-on-left">With help</label>
+                                <div class="col-sm-10">
+                                    <div class="form-group label-floating is-empty">
+                                        <label class="control-label"></label>
+                                        <input type="text" class="form-control" value>
+                                        <span class="help-block">A block of help text that breaks onto a new line.</span>
+                                    </div>
+                                </div>
+                            </div>
+                              <div class="row">
+                                <div class="col-sm-10">
+                                    <div class="form-group label-floating is-empty">
+                                        <label class="control-label"></label>
+                                        <button type="submit" onclick="return Validate()" class="btn btn-fill btn-default">Submit</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
